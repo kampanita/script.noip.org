@@ -1,0 +1,8 @@
+1.1.0 Version publicada
+      Anadidos algunos titulos y literales
+      Anadidos asteriscos al teclado cuando se mete el passwd
+      Cambiado el icono
+      Se notifica la ejecucion en notificacion y no en dialogo
+      
+1.0.0 Initial Release
+      Primera version funcionando  
